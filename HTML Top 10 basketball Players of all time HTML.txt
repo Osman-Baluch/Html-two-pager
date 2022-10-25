@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>
+Top Ten Basketball Players of All Time (My Opinion).
+    </title>
+    <style>
+    .top_10{ 
+        font-weight :bold;
+        color: orange;
+    }
+    #title{ color: red;
+    text-align: center;
+    }
+    </style>
+    </head>
+<body>
+      <p id="link">
+    Click <a href="file:///home/chronos/u-d5e5b425b89adc88077a51eae142b67cb9f3b5ea/MyFiles/Camera/tech/%20NBA%20Rewards.html">here</a> to learn about some of the awards in the NBA.
+    </p>
+  <h1 id="title">Basketball</h1>
+  <p>
+Basketball is a challenging game in which you have to score a round ball in a hoop. Over time, there have been many great basketball players who have played in the NBA. In this article, I will express my top 10 basketball players of all time.
+  </p>
+
+  <h2 class= "top_10">
+10. Bill Russel
+  </h2>
+  <p>
+Bill Russel has accumulated 11 rings over his long carrier with the Boston Celtics.
+  </p> 
+  <h2 class="top_10">
+ 9. Tim Duncan
+  </h2>
+  <p>
+ Tim Duncan experienced 19 NBA seasons with the Spurs. He won 5 NBA championships and All-defensive team selections. His nickname is Mister Fundemantel and he is considered the best power forward of all time.
+  </p>
+ 
+  <h2 class="top_10">
+ 8. Larry Bird
+  </h2>
+  <p>
+   Larry Bird had 3 championships and two NBA Finals MVP titles with the Boston Celtics. He also won the three-point shooting title at the All-Star game in 1986.
+  </p>
+ 
+  <h2 class="top_10">
+7. Shaquille O'Neal
+  </h2>
+  <p>
+   Shaquille O'Neal has a height of 2.16 meters and weighs about 147 kg. He was drafted in 1992 by the Orlando Magic. He received rookie of the year. Shaquille O'Neal won 3 championships. He also won one time at the Heats.
+  </p>
+  <h2 class="top_10">
+ 6. Earvin Johnson Jr.
+  </h2>
+  <p>
+Earvin Johnson Jr., otherwise known as Magic Johnson, is one of the best point guards that have ever played the game of basketball. He is a 5-time champion, has 3 season MVP awards, and 3 Finals MVPs. He played for 13 seasons. 
+  </p>
+  <h2 class="top_10">
+ 5. Stephen Curry
+  </h2>
+  <p>
+ Stephen Curry is a 4 time NBA champion with two league MVPs, one finals MVP, multiple scoring titles, and an All-Star MVP. He is currently the best three-point shooter in the NBA and one of the best point guards.
+  </p>
+  <h2 class="top_10">
+ 4. Kobe Bryant
+  </h2>
+  <p>
+  Kobe Bryant played in 17 postseasons (playoffs) out of his 19 seasons in the NBA. He scored 5,640 points in 220 playoff games. He won five scoring titles and two NBA Finals MVP awards with the Los Angeles Lakers.
+  </p>
+  
+  <img src= "https://media.vanityfair.com/photos/5e2e3af23f3d910008fc55c0/master/pass/remembering-kobe-bryant.jpg" alt= "Kobe Bryant" width="200">
+ 
+  <h2 class="top_10">
+ 3. Kareem Abdul-Jabbar
+  </h2>
+  <p>
+  Kareem Abdul-Jabbar is one of the top scorers in NBA history. He won 6-time championships and 2 NBA Finals MVP awards. He is a 10-time All-NBA First Team. </p>
+  <img src="Kareem_Abdul-Jabbar.jpg" alt="picture of Kareem Abdul-Jabbar" width="200">
+ 
+  <h2 class="top_10">
+ 2. Lebron James
+  </h2>
+  <p>
+  Lebron has won 4 NBA Championship rings with the Miami Heat, Cleavland Caveleries, and the Los Angeles Lakers. He is always compared to Michael Jordan for being the best basketball player. He has won 4 Finals MVPs and League MVPs.
+  </p>
+  
+  <img src= "https://media.cnn.com/api/v1/images/stellar/prod/221006042658-02-nba-lebron-james-las-vegas.jpg?c=original" alt= "Lebron James" width="200">
+ 
+  <h2 class="top_10">
+ 1. Michael Jordan
+  </h2>
+  <p>
+  Michael Jordan won 6 NBA Championship rings with the Chicago Bulls. He had 2 3-peats (winning 3 championships in a row). He also has a Defensive Player of the Year and has 6 Finals MVPs. He also won 5 League MVPs.
+  </p>
+  <img src= "https://cdn.nba.com/manage/2021/08/michael-jordan-looks.jpg" alt= "Michael Jordan" width="200">
+ 
+  <h6>
+ All information came from <a href="https://www.scottfujita.com/best-nba-players-of-all-time/" target="_blank">scottfujita.</a>
+  </h6>
+</html>

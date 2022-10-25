@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>
+    Rewards in the NBA
+    </title>
+    <style>
+    #title {
+    color: red;
+    font-weight:bold;
+    text-align: center;
+    }
+    p{
+    color:rgb(17, 217, 44);
+    }
+    
+    .rewards{
+    font-weight:bold;
+    }
+        #link{
+        color:black;
+        }
+    </style>
+    </head>
+    
+    <body>
+    <p id="link">
+    Click <a href="file:///home/chronos/u-d5e5b425b89adc88077a51eae142b67cb9f3b5ea/MyFiles/Camera/tech/%20Top%2010%20basketball%20Players%20of%20all%20time.html">here</a> to learn about the top 10 NBA players.
+    </p>
+    <h1 id="title">
+    NBA Rewards
+    </h1>
+    <p>
+    The NBA has many skilled players who play in it. The best of the best get rewards at the end of the year. In this article, You'll learn some of the NBA's rewards.
+    </p>
+    <h2 class="rewards">
+    All-Star Game MVP
+    </h2>
+    <p>
+    The All-Star Game MVP is given to the best-performing player in the NBA All-Star game.
+    </p>
+    <img src="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-02/nba-plain--a13013d2-205b-473f-abcd-b4810b347337.png?itok=5ayC8Yc0" alt="Stephen Curry holding the All-Star game MVP reward." width="300">
+    
+    <h2 class="rewards">
+    Rookie of the Year
+    </h2>
+    <p>
+    The rookie of the year is given to the regular season's top rookie of the NBA.
+    </p>
+    
+    <h2 class="rewards">
+    Most Valuable Player (MVP)
+    </h2>
+    <p>
+    The Most Valuable Player is given to the best-performing player of the NBA regular season.
+    </p>
+       <img src="MVP_award.jpg" alt="picture of MVP award" width="200">
+    
+    <h2 class="rewards">
+    Coach of the Year
+    </h2>
+    <p>
+    Coach of the year is awarded to the best coach in the NBA regular season.
+    </p>
+    
+    <h2 class="rewards">
+    NBA Finals Most Valuable Player (NBA Finals MVP)
+    </h2>
+    <p>
+    The NBA Finals MVP is given to the best-performing player in the NBA Finals.
+    </p>
+
+    
+    <h2 class="rewards">
+    NBA Western Conference Finals Most Valuable Player
+    </h2>
+    <p>
+    The NBA Western Conference Finals MVP is given to the best-performing player in the NBA Western Conference Finals MVP.
+    </p>
+    
+    <h2 class="rewards">
+    NBA Eastern Conference Finals Most Valuable Player
+    </h2>
+    <p>
+    The NBA Eastern Conference Finals MVP is given to the best-performing player in the NBA Eastern Conference Finals MVP.
+    </p>
+    
+    <h2 class="rewards">
+    Executive of the Year
+    </h2>
+    <p>
+    The Executive of the Year is awarded to the NBA's top front office.
+    </p>
+    
+    <h2 class="rewards">
+    Citizenship Award
+    </h2>
+    <p>
+    The Citizenship Award is given to a team member who shows excellent service and dedication to the team.
+    </p>
+    
+    <h2 class="rewards">
+    Sixth Man of the Year
+    </h2>
+    <p>
+    The Sixth Man of the Year is rewarded to the best performing player on the bench.
+    </p>
+    
+    <h2 class="rewards">
+    Defensive Player of the Year
+    </h2>
+    <p>
+    The Defensive Player of the Year is awarded to the top defensive player in the NBA regular season.
+    </p>
+    
+    <h2 class="rewards">
+    Most Improved Player
+    </h2>
+    <p>
+    The Most Improved Player is awarded to the most improved player of the NBA regular season.
+    </p>
+        <h6>
+ All information came from <a href="https://en.wikipedia.org/wiki/List_of_National_Basketball_Association_awards" target="_blank">wikipedia.</a>
+  </h6>
+     
+    </body>
+    
+    </html>
